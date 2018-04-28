@@ -5,7 +5,7 @@ import com.marsrover.commands.ICommand;
 import com.marsrover.commands.MoveCommand;
 import com.marsrover.commands.RotateLeftCommand;
 import com.marsrover.commands.RotateRightCommand;
-import com.marsrover.custom.InvalidCommandException;
+import com.marsrover.exceptions.InvalidCommandException;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.marsrover.custom;
+package com.marsrover.exceptions;
 
 public class RoverOutOfBoundsException extends RuntimeException {
     public RoverOutOfBoundsException() {

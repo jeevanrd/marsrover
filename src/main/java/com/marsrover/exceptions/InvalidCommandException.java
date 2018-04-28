@@ -1,4 +1,4 @@
-package com.marsrover.custom;
+package com.marsrover.exceptions;
 
 
 public class InvalidCommandException extends RuntimeException {
